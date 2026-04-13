@@ -69,6 +69,7 @@ This generates:
 *   `{task}/pca_{task}.pkl` & [.npy]: PCA model and reduced data.
 *   `{task}/kmeans_{task}_n{N}.pkl` & [.npy]: K-Means model and cluster labels.
 *   `{task}/kmeans_inertia.dat`: Inertia values for K-Means models.
+
 We have provided example data files for `2RVD` in `2RVD/`. 
 
 ### 3. Run Full Pipeline
